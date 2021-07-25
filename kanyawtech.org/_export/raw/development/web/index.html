@@ -1,0 +1,65 @@
+==== Karen Unicode on the Web ====
+
+Including Karen text in an HTML page is easy but some browsers may need some tweaking. 
+
+If a non-Unicode compliant font (such as Zawkyi) is installed your web browser may use it incorrectly. The best way around this problem (if you are the web developer) is for the web page CSS to specify which font should be used. If, however, that is not an option (you are not the web developer, and are just trying to read Karen content) you'll need to change your browser settings.
+
+=== Google Fonts ===
+
+Google fonts early access includes several Myanmar fonts. www.google.com/fonts/earlyaccess
+
+
+=== Drawing Fonts on HTML Canvas Elements ===
+
+If the browser is simply not able to display the text any other way, it may be possible to draw the fonts on HTML canvas elements.
+
+
+=== Wordpress ===
+
+I wrote a plugin for several Wordpress sites that I've worked on. [[http://wordpress.org/plugins/kawthulei/|Kawthulei plugin]]
+=== Dokuwiki ===
+
+I'm using Google's early access version of the Tharlon remote font for Unicode text on this site. For Zawgyi, I'm only using local fonts. I'll list what I've done below. This method requires the Wrap plugin to be installed.
+
+First, create the following file:
+
+<code>
+conf/userstyle.css
+</code>
+
+And put the following CSS in it:
+
+<file css userstyle.css>
+@import url(http://fonts.googleapis.com/earlyaccess/thabit.css);
+
+.wrap_mytext {
+   line-height: 150%;
+   font-family: 'Tharlon', 'Padauk', serif;
+   text-align: left;
+}
+
+.wrap_zgtext {
+   font-family: 'Zawgyi-One';
+   text-align: left;
+}
+</file>
+
+(By putting our code in this file rather than a main CSS file, we avoid all our work getting overwritten when Dokuwiki or a plugin is updated.)
+
+To use this CSS, simply tag the text in your document, like this:
+
+<code>
+<WRAP mytext :ksw>
+Karen Unicode text...
+</WRAP>
+
+<WRAP mytext :mya>
+Myanmar Unicode text...
+</WRAP>
+
+<WRAP zgtext :mya>
+Myanmar pseudo-Unicode Zawgyi text...
+</WRAP>
+</code>
+
+This doesn't address line breaking. A plugin could be developed to insert U+200B Zero width spaces really easily, but I haven't done it yet. One problem is, how can the plugin know if the text is Unicode or Zawgyi? I'll work on it later. For now, manually add the spaces were appropriate.

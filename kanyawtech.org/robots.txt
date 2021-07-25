@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /lib/exe/fetch.php?media=download:*.pdf&

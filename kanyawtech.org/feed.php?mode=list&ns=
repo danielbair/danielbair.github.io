@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://kanyawtech.org/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://kanyawtech.org/feed.php">
+        <title>KanyawTech.org</title>
+        <description></description>
+        <link>http://kanyawtech.org/</link>
+        <image rdf:resource="http://kanyawtech.org/lib/tpl/arctic/images/favicon.ico" />
+       <dc:date>2019-01-09T22:25:41+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://kanyawtech.org/contact?rev=1459799341&amp;do=diff"/>
+                <rdf:li rdf:resource="http://kanyawtech.org/home?rev=1446412937&amp;do=diff"/>
+                <rdf:li rdf:resource="http://kanyawtech.org/sidebar?rev=1446412370&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://kanyawtech.org/lib/tpl/arctic/images/favicon.ico">
+        <title>KanyawTech.org</title>
+        <link>http://kanyawtech.org/</link>
+        <url>http://kanyawtech.org/lib/tpl/arctic/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://kanyawtech.org/contact?rev=1459799341&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-04-05T03:49:01+08:00</dc:date>
+        <title>contact</title>
+        <link>http://kanyawtech.org/contact?rev=1459799341&amp;do=diff</link>
+        <description>&lt;table&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;1405494065&lt;/th&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;current&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 1:&lt;/td&gt;
+&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 1:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;==== Contact Me ====&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;==== Contact Me ====&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;{{ben.jpg?180 }} Hi, my name is Ben. I&amp;#039;m a student, currently studying for a degree in&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;Theology&lt;/strong&gt;. I have spent several years as a volunteer teacher in Thailand and Myanmar, where I had the opportunity to study the Karen language. I maintain this website&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;completely of my own accord without any expectation of financial gain. My only&amp;#160;&lt;/strong&gt;hope&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;is&amp;#160;&lt;/strong&gt;that&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;this information&amp;#160;&lt;/strong&gt;be useful.&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;+&lt;/td&gt;&lt;td class=&quot;diff-addedline&quot;&gt;{{ben.jpg?180 }} Hi, my name is Ben. I&amp;#039;m a student, currently studying for a degree in&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;Information Technology&lt;/strong&gt;. I have spent several years as a volunteer teacher in Thailand and Myanmar, where I had the opportunity to study the Karen language. I maintain this website&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;with the&amp;#160;&lt;/strong&gt;hope that&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;it&amp;#160;&lt;/strong&gt;be useful&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;for Karen people around the world as they interact with modern technology&lt;/strong&gt;.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;Feel free to contact me, I would love to hear from you.&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;Feel free to contact me, I would love to hear from you.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 8:&lt;/td&gt;
+&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 8:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; Thai Cell: 080-655-1063&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; Thai Cell: 080-655-1063&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; Myanmar Cell: 093-621-0398&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; Myanmar Cell: 093-621-0398&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&amp;#160; Physical Address:&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&amp;#160; &amp;#160; Ben Sharon&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&amp;#160; &amp;#160; Ayarwady Adventist Seminary, Mosokwin Rd.&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&amp;#160; &amp;#160; Myaungmya Township&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&amp;#160; &amp;#160; Ayarwady Division&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&amp;#160; &amp;#160; Myanmar&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;~~DISCUSSION~~&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;~~DISCUSSION~~&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item rdf:about="http://kanyawtech.org/home?rev=1446412937&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-02T05:22:17+08:00</dc:date>
+        <title>home</title>
+        <link>http://kanyawtech.org/home?rev=1446412937&amp;do=diff</link>
+        <description>&lt;table&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;1399617022&lt;/th&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;current&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 42:&lt;/td&gt;
+&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 42:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;lt;/WRAP&amp;gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;lt;/WRAP&amp;gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;The [[language:language]] page contains more details of the Sgaw Karen language and script which may be useful for those wishing to learn the language, and for developers trying to properly implement it in their software projects.&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;+&lt;/td&gt;&lt;td class=&quot;diff-addedline&quot;&gt;The [[language:&lt;strong class=&quot;diff-mark&quot;&gt;Karen Bible|&lt;/strong&gt;language]] page contains more details of the Sgaw Karen language and script which may be useful for those wishing to learn the language, and for developers trying to properly implement it in their software projects.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;lt;WRAP mytext :ksw&amp;gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;lt;WRAP mytext :ksw&amp;gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;[[language:&lt;strong class=&quot;diff-mark&quot;&gt;language&lt;/strong&gt;|က​ညီ​ကျိာ်​အ​တၢ်​ဂ့ၢ်​တၢ်​ကျိၤ]] လံာ်​က​ဘျံး​ပၤ​အံၤ အိၣ်​ဒီး​တၢ်​ဂ့ၢ်​တၢ်​ကျိၤ​ဘၣ်​ဃး​ဒီး​စှီၤ​ဒီး​ပှိၢ်​က​ညီ​အ​လံာ်​မိၢ်​ပှၢ်​န့ၣ်​လီၤ. ပ​ဆၢ​မုၢ်​လာ်​လၢ​တၢ်​ဂ့ၢ်​တၢ်​ကျိၤ​အ​ဝဲ​အံၤ က​ကဲ​ဘျူး​ကဲ​ဖှိၣ်​လၢ​ပှၤ​မၤ​လိ​ဘၣ်​ဃး​​က​ညီ​ကျိာ်​အ​ဂီၢ်န့ၣ်လီၤ. ဒီး​လၢ​ပှၤ​မၤ​ကဲ​ထီၣ်​ခီၣ်​ဖၠူ​ထၢၣ်​​ Program ​လၢ​က​ညီ​ကျိာ်​အ​ဂီၢ်​သ့ၣ်​တ​ဖၣ်​န့ၣ်​လီၤ.&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;+&lt;/td&gt;&lt;td class=&quot;diff-addedline&quot;&gt;[[language:&lt;strong class=&quot;diff-mark&quot;&gt;Karen Bible&lt;/strong&gt;|က​ညီ​ကျိာ်​အ​တၢ်​ဂ့ၢ်​တၢ်​ကျိၤ]] လံာ်​က​ဘျံး​ပၤ​အံၤ အိၣ်​ဒီး​တၢ်​ဂ့ၢ်​တၢ်​ကျိၤ​ဘၣ်​ဃး​ဒီး​စှီၤ​ဒီး​ပှိၢ်​က​ညီ​အ​လံာ်​မိၢ်​ပှၢ်​န့ၣ်​လီၤ. ပ​ဆၢ​မုၢ်​လာ်​လၢ​တၢ်​ဂ့ၢ်​တၢ်​ကျိၤ​အ​ဝဲ​အံၤ က​ကဲ​ဘျူး​ကဲ​ဖှိၣ်​လၢ​ပှၤ​မၤ​လိ​ဘၣ်​ဃး​​က​ညီ​ကျိာ်​အ​ဂီၢ်န့ၣ်လီၤ. ဒီး​လၢ​ပှၤ​မၤ​ကဲ​ထီၣ်​ခီၣ်​ဖၠူ​ထၢၣ်​​ Program ​လၢ​က​ညီ​ကျိာ်​အ​ဂီၢ်​သ့ၣ်​တ​ဖၣ်​န့ၣ်​လီၤ.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;lt;/WRAP&amp;gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;lt;/WRAP&amp;gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;====== Development ======&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;====== Development ======&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item rdf:about="http://kanyawtech.org/sidebar?rev=1446412370&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-02T05:12:50+08:00</dc:date>
+        <title>sidebar</title>
+        <link>http://kanyawtech.org/sidebar?rev=1446412370&amp;do=diff</link>
+        <description>&lt;table&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;1436343073&lt;/th&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;current&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 9:&lt;/td&gt;
+&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 9:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;#160; * [[tutorials:browsers|Browsers]]&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;#160; * [[tutorials:browsers|Browsers]]&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;#160; * [[tutorials:software|Software]]&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;#160; * [[tutorials:software|Software]]&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&amp;#160; * [[language:Language]]&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;+&lt;/td&gt;&lt;td class=&quot;diff-addedline&quot;&gt;&amp;#160; * [[language:&lt;strong class=&quot;diff-mark&quot;&gt;Karen Bible|&lt;/strong&gt;Language]]&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;#160; * [[language:Karen Bible]]&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;#160; * [[language:Karen Bible]]&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;#160; * [[language:Resources]]&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;#160; * [[language:Resources]]&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+</rdf:RDF>

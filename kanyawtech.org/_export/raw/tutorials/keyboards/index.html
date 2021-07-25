@@ -1,0 +1,130 @@
+====== Keyboard Layouts ======
+
+To type on your computer in the Karen language, you're going to need a keyboard layout installed in your computer. There are several options available for Windows, Mac, and Linux.
+====== Keyboard Layout Downloads ======
+
+To get started, simply download the appropriate keyboard layout for your system, and install to your computer or device.
+
+^                       ^ Sgaw Karen                  ^ Western Pwo Karen           ^ Burmese                     ^
+^Windows Style          | {{win-kbd-ksw_2014.08.zip}} | {{win-kbd-pwo_2014.08.zip}} | {{win-kbd-mya_2014.08.zip}} |
+^Mac OS X               | {{mac-kbd-ksw_2014.08.zip}} | {{mac-kbd-pwo_2014.08.zip}} | {{mac-kbd-mya_2014.08.zip}} |
+^iPad / iPhone          |                             |                             |                             |
+^Android                |                             |                             |                             |
+^Linux Layouts          | See **Linux Input Methods** below                                                     |||
+
+**Key Layouts** These layouts (the physical positions of the keys) follow the standard Windows 8.1, Myanmar3, and Ubuntu Linux layout plan. However, on the Pwo and Sgaw layouts, I moved some frequently used characters to more accessible locations. The Myanmar layout is unchanged.
+
+If you have any suggestions or input, feel free to comment below, or otherwise contact me. If you think a key should be moved, or a new character added I welcome your input.
+
+**Windows Style Keyboards** Since Karen (or even Burmese) is not available as a language or locale on Windows versions below 8.1, these keyboards are assigned to the US English locale by default. However, you can assign the layout to another language in the text services and input languages settings if you wish (but not in Windows 8).
+====== Alternative Options =======
+
+The mnemonic layouts map Karen characters to their similar sounding Roman equivalent on the keyboard. For example, 'မ' is mapped to the 'M' key.
+
+This layout may be easier to memorize if you are not already familiar with Myanmar keyboard layouts. If you already know the Myanmar layout, you might find the standard layouts listed above easier.
+
+<WRAP download>
+  * {{win-kbd-ksw_2014.08_mnemonic.zip}}
+  * {{win-kbd-pwo_2014.08_mnemonic.zip}}
+</WRAP>
+
+A mnemonic Myanmar layout is available from [[http://www.hornetranslations.com/keyboardsenca.shtml|www.hornetranslations.com]].
+
+Also, there is an alternate layout available at [[http://www.openroad.net.au/languages/sgaw|www.openroad.net.au]]. 8-O 8-O
+
+====== Linux Input Methods ======
+
+Most modern Linux distros ship with a Myanmar layout for xkb. You shouldn't need anything more unless you are looking for fancy features (like character reordering, etc.).
+
+For Sgaw and Pwo Karen, you need to modify the xkb config files. I have tried this on Ubuntu and Arch Linux. Your mileage may vary on other distros. 
+
+**Simple way**
+
+Download this .zip file...
+
+<WRAP download>
+{{xkb-karen-keyboards.zip}}
+</WRAP>
+
+..unzip, navigate to that folder in a terminal, and type:
+
+<code bash>
+sudo ./install.sh
+</code>
+
+Then, after logging out and back in again, you should see Karen keyboard layout options in your keyboard settings dialog. Choose it, and your done.
+
+**If the simple way doesn't work**
+
+You might need to edit the files manually.
+
+In my system, I added/edited the following files:
+
+<code bash>
+# First, copy the keyboard layouts here:
+sudo cp ksw /usr/share/X11/xkb/symbols/
+sudo cp pwo /usr/share/X11/xkb/symbols/
+
+# Next, go to:
+cd /usr/share/X11/xkb/rules/
+
+# Make backups of all these files
+sudo mkdir backup
+sudo cp *.{lst,xml} backup/
+
+# Add the new layouts to the '! layout' section of each of these files.
+gedit base.lst evdev.lst xorg.lst xfree86.lst
+
+# And, finally, add a new section to each of these XML files.
+gedit base.xml evdev.xml xorg.xml xfree86.xml
+</code>
+
+I added the following two lines to the '! layout' section of each of the .lst files.
+
+<code>
+ksw          Karen
+pwo          Western Pwo Karen
+</code>
+
+And I added the following XML tags to each of the .xml files just after the similar looking Burmese section.
+
+<code xml>
+<layout>
+ <configItem>
+   <name>ksw</name>
+   <shortDescription>ksw</shortDescription>
+   <description>Sgaw Karen</description>
+   <languageList>
+     <iso639Id>mya</iso639Id>
+   </languageList>
+ </configItem>
+</layout>
+<layout>
+ <configItem>
+   <name>pwo</name>
+   <shortDescription>pwo</shortDescription>
+   <description>Western Pwo Karen</description>
+   <languageList>
+     <iso639Id>pwo</iso639Id>
+   </languageList>
+ </configItem>
+</layout>
+</code>
+
+I have no idea whether you have to edit all of those files or not. It may be that only one or two are necessary. If your system doesn't have all six of them in that directory, maybe you don't need them. Or, they might be somewhere else. Just try experimenting and see what happens.
+
+**Alternate methods**
+
+I have had some success using the KMFL input method on the SCIM framework. I'll put more information for it and other alternate methods up here later.
+
+====== Keyboard Layout Resources ======
+
+Here are some of the resources that I've studied as I've worked on these layouts and input methods. If you want to help improve these layouts, you may want to have a look at these documents as well.
+
+For general information on keyboard layouts, see the [[http://en.wikipedia.org/wiki/Keyboard_layout|Keyboard Layouts]] article on Wikipedia.
+
+A good article on keyboard design theory is available from [[http://scripts.sil.org/cms/scripts/page.php?item_id=KeybrdDesign|sil.org]], although the Karen language's requirements are much more modest than some languages.
+
+And the [[http://scripts.sil.org/cms/scripts/page.php?item_id=KeyboardInstallationAndUse|Keyboard Installation and Use]] article, also from sil.org, is a good place to look for information on installing and configuring input methods.
+
+Also, the [[http://scripts.sil.org/cms/scripts/page.php?item_id=IWS-Chapter02| Understanding Characters, Keystrokes, Codepoints and Glyphs]] article is a good read too.

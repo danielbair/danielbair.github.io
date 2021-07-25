@@ -1,0 +1,19 @@
+==== Karen Unicode Tutorials - XeLaTex ====
+
+XeLaTeX is a TeX typesetting engine like Latex, except it fully supports Unicode and modern font technologies such as OpenType, Graphite and Apple Advanced Typography (AAT). It natively supports Unicode and the input file is assumed to be in UTF-8 encoding by default. XeLaTeX can use any fonts installed in the operating system without configuring TeX font metrics, and can make direct use of advanced typographic features of OpenType, AAT and Graphite technologies such as alternative glyphs and swashes, optional or historic ligatures, and variable font weights.
+
+Here is a simple example document.
+
+<code latex test.tex>
+\documentclass{article} % save as utf-8, run with xelatex
+\usepackage{fontspec}
+\XeTeXlinebreaklocale "my"
+\XeTeXlinebreakskip = 0pt plus 0.1pt
+
+\begin{document}
+\fontspec[Script=Myanmar]{Karen Text}
+
+လၢထံးလၢသီန့ၣ်ယွၤတ့လီၤမူခိၣ်ဒီးဟီၣ်ခိၣ်လီၤ ...
+
+\end{document}
+</code>

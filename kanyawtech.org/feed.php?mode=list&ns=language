@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://kanyawtech.org/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://kanyawtech.org/feed.php">
+        <title>KanyawTech.org language</title>
+        <description></description>
+        <link>http://kanyawtech.org/</link>
+        <image rdf:resource="http://kanyawtech.org/lib/tpl/arctic/images/favicon.ico" />
+       <dc:date>2018-11-14T02:24:40+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://kanyawtech.org/language/karen_bible?rev=1446412219&amp;do=diff"/>
+                <rdf:li rdf:resource="http://kanyawtech.org/language/karen_orthography?rev=1446412274&amp;do=diff"/>
+                <rdf:li rdf:resource="http://kanyawtech.org/language/resources?rev=1436342599&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://kanyawtech.org/lib/tpl/arctic/images/favicon.ico">
+        <title>KanyawTech.org</title>
+        <link>http://kanyawtech.org/</link>
+        <url>http://kanyawtech.org/lib/tpl/arctic/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://kanyawtech.org/language/karen_bible?rev=1446412219&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-02T05:10:19+08:00</dc:date>
+        <title>language:karen_bible</title>
+        <link>http://kanyawtech.org/language/karen_bible?rev=1446412219&amp;do=diff</link>
+        <description>&lt;table&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;1436343305&lt;/th&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;current&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 10:&lt;/td&gt;
+&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 10:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; * Sgaw Karen Bible online at [[http://myanmarbible.com/bible/SgawKaren/html/index.html|MyanmarBible.com]].&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; * Sgaw Karen Bible online at [[http://myanmarbible.com/bible/SgawKaren/html/index.html|MyanmarBible.com]].&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&amp;#160; * Apps in Google Play and the App Store.&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;+&lt;/td&gt;&lt;td class=&quot;diff-addedline&quot;&gt;&amp;#160; * Apps in&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;[[https://play.google.com/store/apps/details?id=com.kingofmyheart.karenbible&amp;amp;hl=en|&lt;/strong&gt;Google Play&lt;strong class=&quot;diff-mark&quot;&gt;]]&amp;#160;&lt;/strong&gt;and the&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;[[https://itunes.apple.com/us/app/karen-bible/id626142364?mt=8|&lt;/strong&gt;App Store&lt;strong class=&quot;diff-mark&quot;&gt;]]&lt;/strong&gt;.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item rdf:about="http://kanyawtech.org/language/karen_orthography?rev=1446412274&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-02T05:11:14+08:00</dc:date>
+        <title>language:karen_orthography</title>
+        <link>http://kanyawtech.org/language/karen_orthography?rev=1446412274&amp;do=diff</link>
+        <description>&lt;table&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;1436342181&lt;/th&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;current&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 3:&lt;/td&gt;
+&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 3:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;The purpose of this page is to provide documentation on the Sgaw and Pwo Karen scripts, and how they are implemented in Unicode. This information could be useful for software or web developers.&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;The purpose of this page is to provide documentation on the Sgaw and Pwo Karen scripts, and how they are implemented in Unicode. This information could be useful for software or web developers.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;The Karen writing system can be broken down into a string of well defined syllables. Each syllable is made up of 5 parts:&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;+&lt;/td&gt;&lt;td class=&quot;diff-addedline&quot;&gt;The Karen writing system can be broken down into a string of well defined syllables. Each syllable is made up of&amp;#160;&lt;strong class=&quot;diff-mark&quot;&gt;up to&amp;#160;&lt;/strong&gt;5 parts:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;lt;consonant&amp;gt; &amp;lt;medial&amp;gt; &amp;lt;vowel&amp;gt; &amp;lt;tone&amp;gt; &amp;lt;nasal or final&amp;gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&amp;#160; &amp;lt;consonant&amp;gt; &amp;lt;medial&amp;gt; &amp;lt;vowel&amp;gt; &amp;lt;tone&amp;gt; &amp;lt;nasal or final&amp;gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item rdf:about="http://kanyawtech.org/language/resources?rev=1436342599&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-08T16:03:19+08:00</dc:date>
+        <title>language:resources</title>
+        <link>http://kanyawtech.org/language/resources?rev=1436342599&amp;do=diff</link>
+        <description>&lt;table&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;1436342297&lt;/th&gt;&lt;th colspan=&quot;2&quot; width=&quot;50%&quot;&gt;current&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 41:&lt;/td&gt;
+&lt;td class=&quot;diff-blockheader&quot; colspan=&quot;2&quot;&gt;Line 41:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;| {{:download:sgaw_karen_reader_4th_standard.pdf|Sgaw Karen Reader 4th Standard.pdf}} |&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;| {{:download:sgaw_karen_reader_4th_standard.pdf|Sgaw Karen Reader 4th Standard.pdf}} |&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;| {{:download:sgaw_karen_spelling_book.pdf|Sgaw Karen Spelling Book.pdf}} |&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;| {{:download:sgaw_karen_spelling_book.pdf|Sgaw Karen Spelling Book.pdf}} |&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;These textbooks are from drumpublications.org, it would be nice to find to complete the collections as well as get better quality pdfs of these.&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;-&lt;/td&gt;&lt;td class=&quot;diff-deletedline&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-lineheader&quot;&gt;&amp;#160;&lt;/td&gt;&lt;td class=&quot;diff-context&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+</rdf:RDF>
