@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>
+tutorials:setfont-3.png [KanyawTech.org]
+</title>
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"6b7bdc2053fbbce9b4a923f3013aa244",petok:"0a69044ad6799bc197a9620c262035f5d1760aad-1467726372-1800",zone:"kanyawtech.org",rocket:"0",apps:{"ga_key":{"ua":"UA-46551808-2","ga_bs":"2"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="KanyawTech.org"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/tutorials/browsers?do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/_export/xhtml/tutorials/browsers"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/_export/raw/tutorials/browsers"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=arctic&amp;tseed=eb70fdeb109c9630c7a4b9f715c8ae98"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = null;
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=arctic&amp;tseed=eb70fdeb109c9630c7a4b9f715c8ae98"></script>
+<script type="text/javascript">/* CloudFlare analytics upgrade */
+window._gat=window._gat||{_getTracker:function(){return {_trackPageview:function(){}}}};
+		  
+/*!]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+var pageTracker = _gat._getTracker("UA-46551808-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+		  
+/*!]]>*/</script>
+<link rel="shortcut icon" href="/lib/tpl/arctic/images/favicon.ico"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-46551808-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+<body>
+<div class="dokuwiki">
+<div class="page">
+<h1>tutorials:setfont-3.png</h1>
+<div class="img_big">
+<a href="/_media/tutorials/setfont-3.png?cache=" title="View original file"><img width="800" height="464" class="img_detail" alt="setfont-3.png" title="setfont-3.png" src="/_media/tutorials/setfont-3.png?cache=&amp;w=800&amp;h=464&amp;tok=1ea38a"/></a> </div>
+<div class="img_detail">
+<p class="img_caption">
+setfont-3.png </p>
+<p>&larr; <bdi><span class="curid"><a href="/tutorials/browsers" class="wikilink1" title="tutorials:browsers">browsers</a></span></bdi></p>
+<dl class="img_tags">
+<dt>Date::</dt><dd>2013/07/15 07:41</dd><dt>Filename::</dt><dd>setfont-3.png</dd><dt>Format::</dt><dd>PNG</dd><dt>Size::</dt><dd>161KB</dd><dt>Width::</dt><dd>800</dd><dt>Height::</dt><dd>464</dd> </dl>
+</div>
+</div>
+</div>
+</body>
+</html>
