@@ -112,8 +112,8 @@
 <style>
     @font-face {
       font-family: 'Karen Text';
-      src: url('fonts/karen-text.eot');
-      src: local('☺'), url('fonts/karen-text.woff') format('woff'), url('fonts/karen-text.ttf') format('truetype'), url('fonts/karen-text.svg') format('svg');
+      src: url('/kanyawtech.org/fonts/karen-text.eot');
+      src: local('☺'), url('/kanyawtech.org/fonts/karen-text.woff') format('woff'), url('/kanyawtech.org/fonts/karen-text.ttf') format('truetype'), url('/kanyawtech.org/fonts/karen-text.svg') format('svg');
       font-weight: normal;
       font-style: normal;
     }
